@@ -115,7 +115,7 @@ h1 {
   border-radius: 10px 10px 0 0;
   padding: 15px 20px;
   position: absolute;
-  bottom: -50px;
+  bottom: -200px;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -124,7 +124,7 @@ h1 {
 }
 
 .notification-container.show {
-  transform: translateY(-50px);
+  transform: translateY(-200px);
 }
 
 .keyboardBtn-container {
